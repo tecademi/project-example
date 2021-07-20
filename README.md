@@ -22,4 +22,4 @@
 - 특장점
 
 ## 발표자료
-[발표자료 바로가기](https://slides.com/teamblender/tecademi-project-example){:target="_blank"}
+[발표자료 바로가기](https://slides.com/teamblender/tecademi-project-example)
