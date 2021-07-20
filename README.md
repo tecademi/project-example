@@ -22,3 +22,4 @@
 - 특장점
 
 ## 발표자료
+[발표자료](./presentation/presentation.html)
