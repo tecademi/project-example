@@ -26,7 +26,7 @@
 
 ---
 
-'''
+```text
 ## 작성예제
 프로젝트 예제 01 : https://github.com/mash-up-kr/study-android-toy-project
-'''
+```
