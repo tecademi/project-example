@@ -22,4 +22,4 @@
 - 특장점
 
 ## 발표자료
-[발표자료](./presentation/presentation.html)
+<a href="./presentation/presentation.html" target="_blank">발표자료<a>
