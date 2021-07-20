@@ -25,5 +25,5 @@
 [발표자료 바로가기](https://slides.com/teamblender/tecademi-project-example)
 
 
-> 작성예제
-> 프로젝트 예제 01 : https://github.com/mash-up-kr/study-android-toy-project
+> 작성예제  
+> 예제 01 : https://github.com/mash-up-kr/study-android-toy-project
